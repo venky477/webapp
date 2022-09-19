@@ -18,4 +18,11 @@
   <build>
     <finalName>mywebtest</finalName>
   </build>
+
+  <properties>
+                <sonar.host.url>
+                   http://54.152.25.69:9000
+                </sonar.host.url>
+  </properties>
+ 
 </project>
